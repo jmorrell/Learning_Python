@@ -1,4 +1,4 @@
-Hackright Project, Week 1: Looping, file manipulation, panic
+Hackbright Project, Week 1: Looping, file manipulation, panic
 =======
 
 Introduction
